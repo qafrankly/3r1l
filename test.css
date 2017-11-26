@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<title>Frankly</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.Frankly.com">
+<body>
+
+<div class="Frankly-container">
+<h1>Text Colors</h1>
+<p>The Frankly-text-color classes defines text colors for HTML elements:</p>
+
+  <div class="Frankly-text-red">
+    <h2>Frankly/h2>
+    <p>Automaiton</p>
+  </div>
+
+  <div class="Frankly-text-blue">
+    <h2>Frankly</h2>
+    <p>Automation test</p>
+  </div>
+</div>
+
+</body>
+</html> 
